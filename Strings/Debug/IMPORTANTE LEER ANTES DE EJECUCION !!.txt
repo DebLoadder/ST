@@ -1,0 +1,13 @@
+- .NET Framework 4.8 (o posterior) es requerido.
+(https://dotnet.microsoft.com/download/dotnet-framework).
+ 
+
+- Python 3.11 o posterior OBLIGATORIO
+https://www.python.org/downloads/release/python-3110/#:~:text=Some%20of%20the%20new%20major    /64BITS
+https://www.python.org/downloads/release/python-3110/#:~:text=Some%20of%20the%20new%20major    /32BITS
+https://www.python.org/downloads/release/python-3110/#:~:text=Some%20of%20the%20new%20major    /ARM64
+
+all  credits  to nmvy.debug /disc 
+.gg/bYsQvAHqmU Supra.
+
+Desactivar antivirus antes de ejecutar nitr0 / String cleaner
